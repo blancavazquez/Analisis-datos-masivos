@@ -1,4 +1,4 @@
-# Curso de Análisis datos masivos, IIMAS-UNAM, 2024
+# Curso de Análisis datos masivos IIMAS-UNAM (Periodo 2025-II)
 Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de "Análisis de Datos Masivos" impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](https://www.pcic.unam.mx/) en el [IIMAS](https://www.iimas.unam.mx/), [UNAM](https://www.unam.mx/).
 
 ## Temario
@@ -38,8 +38,8 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
  - Charu C. Aggarwal. Recommender Systems. Springer International Publishing, 2016.[Liga](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
    
  ## Horario
-- Lunes 08:30 am a 10:00 am
-- Miércoles 08:30 am a 10:00 am
+- Martes 08:30 am a 10:00 am
+- Jueves 08:30 am a 10:00 am
 
 ## Criterios de evaluación
 - Proyectos (60%)
