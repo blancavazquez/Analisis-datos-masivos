@@ -38,12 +38,12 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
  - Charu C. Aggarwal. Recommender Systems. Springer International Publishing, 2016.[Liga](http://pzs.dstu.dp.ua/DataMining/recom/bibl/1aggarwal_c_c_recommender_systems_the_textbook.pdf)
    
  ## Horario
-- Lunes 08:30 am a 10:00 am
-- Miércoles 08:30 am a 10:00 am
+- Lunes 11:30 am a 13:00 pm
+- Miércoles 11:30 am a 13:00 pm
 
 ## Criterios de evaluación
-- Proyectos (60%)
-- Tareas (20%)
+- Proyectos (50%)
+- Tareas (30%)
 - Exámenes (10%)
 - Participación (10%)
 
