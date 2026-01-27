@@ -1,4 +1,4 @@
-# Curso de Análisis datos masivos, IIMAS-UNAM, 2024
+# Curso de Análisis datos masivos, IIMAS-UNAM, 2026-II
 Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de "Análisis de Datos Masivos" impartido en el [Posgrado en Ciencia e Ingeniería de la Computación](https://www.pcic.unam.mx/) en el [IIMAS](https://www.iimas.unam.mx/), [UNAM](https://www.unam.mx/).
 
 ## Temario
